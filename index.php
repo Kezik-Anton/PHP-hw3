@@ -409,8 +409,11 @@
            
         }
 
+        echo $res;
+
     }
 
+   
 getBr($string, $n);
 
 ?>
